@@ -56,8 +56,6 @@ async def test_nota_venta_nueva(page):
     await expect(notas_ventas_page.first_row).to_contain_text("Escondida")
     await expect(notas_ventas_page.first_row).to_contain_text("595")
 
-    await page.pause()
-
     await notas_ventas_page.click_profile_icon()
     await notas_ventas_page.click_profile_icon_logout()
 
