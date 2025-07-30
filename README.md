@@ -112,3 +112,5 @@ Tienes **48 horas** desde que recibes esta pauta.
 
 ¡Mucho éxito! 💥  
 Relke QA Team
+
+# relke-qa-respuesta
